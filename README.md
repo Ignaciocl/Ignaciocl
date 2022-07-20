@@ -1,7 +1,9 @@
-### Hi there 👋
+![Ignacio Carol Lugones GitHub stats](https://github-readme-stats.vercel.app/api?username=Ignaciocl&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciocl&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Ignaciocl/Ignaciocl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cosito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

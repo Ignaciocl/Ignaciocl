@@ -1,6 +1,14 @@
-![Ignacio Carol Lugones GitHub stats](https://github-readme-stats.vercel.app/api?username=Ignaciocl&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciocl&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Ignacio Carol Lugones GitHub stats](https://github-readme-stats.vercel.app/api?username=Ignaciocl&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs)
+
+
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/ignacio-carol-lugones-51770a18b/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ignacio Carol Lugones | LinkedIn" width="21px"/></a>
 
 <!--
 **cosito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

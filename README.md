@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
-![Ignacio Carol Lugones GitHub stats](https://github-readme-stats-eight-navy-49.vercel.app/api?username=Ignaciocl&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Ignacio Carol Lugones GitHub stats](https://github-readme-stats-eight-navy-49.vercel.app/api?username=Ignaciocl&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)
 
 
 ## 🤝 Connect with me:
